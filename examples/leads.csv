@@ -1,0 +1,5 @@
+lead_id,service,consent,urgency,service_area
+DEMO-001,house cleaning,yes,normal,yes
+DEMO-002,tree service,yes,high,yes
+DEMO-003,painting,no,high,yes
+DEMO-004,landscaping,yes,low,no
